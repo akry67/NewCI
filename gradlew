@@ -1,3 +1,4 @@
+chmod +x gradlew
 #!/usr/bin/env sh
 
 #
@@ -24,8 +25,6 @@
 
 # Attempt to set APP_HOME
 # Resolve links: $0 may be a link
-chmod +x gradlew
-
 PRG="$0"
 # Need this for relative symlinks.
 while [ -h "$PRG" ] ; do
